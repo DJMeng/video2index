@@ -8,7 +8,7 @@ Tensor_terminator
 ### Material
 
 - [Video Summarization](https://github.com/kezhang-cs/Video-Summarization-with-LSTM)
-- [C3d]([http://vlg.cs.dartmouth.edu/c3d/)
+- [C3d](http://vlg.cs.dartmouth.edu/c3d/)
 
 ### Data
 
