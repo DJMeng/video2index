@@ -9,6 +9,7 @@ Tensor_terminator
 
 - [Video Summarization](https://github.com/kezhang-cs/Video-Summarization-with-LSTM)
 - [C3d](http://vlg.cs.dartmouth.edu/c3d/)
+- [Jointly Modeling Embedding and Translation to Bridge Video and Language](https://arxiv.org/pdf/1505.01861.pdf)
 
 ### Data
 
