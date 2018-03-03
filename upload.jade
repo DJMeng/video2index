@@ -1,0 +1,11 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='UTF-8')
+    title upload
+  body
+    form#editfile(method='post', action='/system/upload', enctype='multipart/form-data')
+      input(name='text', type='text')
+      |     选择视频：
+      input#upfile(name='avatar', type='file')
+      input(type='submit', value='提交')
